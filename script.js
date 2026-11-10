@@ -1,5 +1,5 @@
 // Add a confirmed public contact email here to show the contact button.
-const CONTACT_EMAIL = 'hello@izumo.com';
+const CONTACT_EMAIL = 'hello@getizumo.com';
 const translations = {
   en: { title: 'Izumo — The quality of Japan, closer to home.', description: 'Helping America experience the quality of Japan. Izumo is building connections between Japanese food producers and the United States.' },
   ja: { title: 'Izumo — 日本の上質を、アメリカの日常へ。', description: '食を通じて、日本の上質とその背景にある文化をアメリカへ。Izumoは日本のつくり手とアメリカをつなぎます。' }
