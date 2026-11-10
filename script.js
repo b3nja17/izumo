@@ -1,8 +1,8 @@
 // Add a confirmed public contact email here to show the contact button.
 const CONTACT_EMAIL = 'hello@getizumo.com';
 const translations = {
-  en: { title: 'Izumo — The quality of Japan, closer to home.', description: 'Helping America experience the quality of Japan. Izumo is building connections between Japanese food producers and the United States.' },
-  ja: { title: 'Izumo — 日本の上質を、アメリカの日常へ。', description: '食を通じて、日本の上質とその背景にある文化をアメリカへ。Izumoは日本のつくり手とアメリカをつなぎます。' }
+  en: { title: 'Izumo — The quality of Japan, closer to home.', description: 'Bringing thoughtfully crafted Japanese teas and foods to the United States, starting with hojicha. Meet Izumo and explore becoming a supplier.' },
+  ja: { title: 'Izumo — 日本の上質を、アメリカの日常へ。', description: 'ほうじ茶をはじめとする日本茶や食品をアメリカへ。生産者・メーカーの皆さまとの出会いをお待ちしています。米国への輸出経験は問いません。' }
 };
 function setLanguage(language) {
   const lang = language === 'ja' ? 'ja' : 'en';
